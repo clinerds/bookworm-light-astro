@@ -1,11 +1,12 @@
 ---
-title: Mass Psychogenic Illness - 🤔👻 Shared Delusions and 👽 Paranormal Experiences
-date: 14 July 2023
+title: Mass Psychogenic Illness, Shared Delusions and Paranormal Experiences
+date: 2023-08-12
 description: 🌟 Mass psychogenic illness, also known as mass hysteria, occurs when a group of people experiences physical or psychological symptoms without any identifiable physical cause. Sometimes, these symptoms can be linked to shared beliefs or experiences, including paranormal encounters. 👥💭
-categories: ["Mysteries&Parapsychology"]
-authors: ["John Doe"]
-tags: ["psychogenic illness"]
+categories: ["Mysteries Parapsychology"]
+authors: ["Samael"]
+tags: [ "Parapsychology"]
 image: "https://resources.stuff.co.nz/content/dam/images/4/z/1/m/v/9/image.related.StuffLandscapeSixteenByNine.1420x800.4z1l49.png/1668266594601.jpg"
+draft: false
 ---
 
 #### Introduction:

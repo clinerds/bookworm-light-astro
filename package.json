@@ -17,6 +17,7 @@
     "fuse.js": "^6.6.2",
     "github-slugger": "^2.0.0",
     "marked": "^4.2.12",
+    "netlify-cms": "^2.10.192",
     "react-icons": "^4.7.1"
   },
   "devDependencies": {

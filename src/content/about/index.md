@@ -8,13 +8,13 @@ what_i_do:
   title: "What I Do"
   items:
   - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+    description: "I Write"
   
   - title: "Programming"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+    description: "I Code"
   
   - title: "Penetration Testing"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+    description: "I Hack"
 
 ---
 A content writer by day, a cybersecurity enthusiast by night, and an enigmatic player of CTF challenges, Talib delves into the realms of words, code, and the human brain. He loves to unravel mysteries that lie beyond the ordinary.

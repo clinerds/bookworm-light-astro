@@ -5,7 +5,7 @@ description: 🌟 Mass psychogenic illness, also known as mass hysteria, occurs 
 categories: ["Human Brain and Body"]
 authors: ["Samael"]
 tags: [ "Consciousness", "Brain", "ScientificStudy"]
-image: "https://bigthink.com/wp-content/uploads/2021/06/134674-134675.jpg"
+image: "/images/posts/consciousness.webp"
 draft: false
 ---
 

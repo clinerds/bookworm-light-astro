@@ -5,7 +5,7 @@ description: 🌟 Mass psychogenic illness, also known as mass hysteria, occurs 
 categories: ["Mysteries Parapsychology"]
 authors: ["Samael"]
 tags: [ "Parapsychology"]
-image: "https://resources.stuff.co.nz/content/dam/images/4/z/1/m/v/9/image.related.StuffLandscapeSixteenByNine.1420x800.4z1l49.png/1668266594601.jpg"
+image: "/images/posts/psychogenic-illness.jpg"
 draft: false
 ---
 

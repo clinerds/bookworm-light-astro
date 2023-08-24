@@ -5,7 +5,7 @@ description: The mysterious phenomenon of spontaneous human combustion. The host
 categories: ["General Understanding"]
 authors: ["Samael"]
 tags: [ "SpontaneousHumanCombustion", "ScientificStudy"]
-image: "https://static.independent.co.uk/2021/02/19/18/Mary-leg.jpg"
+image: "/images/posts/Mary-leg.jpg"
 draft: false
 ---
 

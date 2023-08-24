@@ -42,12 +42,12 @@
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Human Brain",
+      "url": "/categories/human-brain-and-body"
     },
     {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "name": "Books",
+      "url": "/categories/books"
     }
   ]
 }

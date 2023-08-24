@@ -1,6 +1,6 @@
 ---
 title: The Brain by David Eagleman - Summary
-date: 2023-08-24
+date: 2023-08-23
 description: We typically consider it a cockpit constrained by our very own identity. In any case, as an individual who’s examined the brain – from old fashioned Freudians to the most exceptional neuroscientists – will let you know, it’s regularly the concealed hand of the psyche that is running the show. 
 categories: ["Books"]
 authors: ["Samael"]

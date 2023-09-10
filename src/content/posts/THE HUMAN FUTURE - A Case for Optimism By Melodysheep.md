@@ -5,13 +5,13 @@ description: Humanity is at a tipping point:​ ​​​ ​We stand at a cross
 categories: ["Time - Reality - Dimensions - Future"]
 authors: ["Samael"]
 tags: [ "HumanFuturePrediction" ,"Hypothesis" ,"Imagination" ​]
-image: "/images/posts/THE HUMAN FUTURE - A Case for Optimism By Melodysheep.jpg"
+image: "/images/posts/human-future.jpg"
 draft: false
 ---
 
 
 
-Humanity is at a tipping point:​ ​​​ ​We stand at a crossroads of accelerating change​ ​​​ ​unlike anything ever seen in the history of life.​ ​​​ ​It feels as if the future could tip either way.​ ​​​ ​Between utopia​ ​​​ ​and apocalypse.​ ​​​ ​The risks we face are daunting.​ ​​​ ​But beneath the rampant pessimism for our future​ ​​​ ​is evidence that humanity​ ​​​ ​can not only survive the coming centuries,​ ​​​ ​but thrive deep into the future.​ ​​​ ​No one knows what comes next.​ ​​​ ​But there are three broad paths​ ​​​ ​our future could take.​ ​​​ ​
+Humanity is at a tipping point:​ ​​​ ​We stand at a crossroads of accelerating change​ ​​​ ​unlike anything ever seen in the history of life.​ ​​​ ​It feels as if the future could tip either way.​ ​​​ ​Between utopia​ ​​​​and apocalypse.​ ​​​ ​The risks we face are daunting.​ ​​​ ​But beneath the rampant pessimism for our future​ ​​​ ​is evidence that humanity​ ​​​ ​can not only survive the coming centuries,​ ​​​ ​but thrive deep into the future.​ ​​​ ​No one knows what comes next.​ ​​​ ​But there are three broad paths​ ​​​ ​our future could take.​ ​​​ ​
 
 The first is Collapse:​ ​​​ ​a major catastrophe threatens the downfall of civilization​ ​​​ ​and possibly even extinction of the human race.​ ​​​ ​Second is​ ​​​ ​Plateau:​ ​​​ ​where mankind averts collapse,​ ​​​ ​but hits an upper limit of progress.​ ​​​ ​And third is​ ​​​ ​Transcendence:​ ​​​ ​where humanity reaches its full potential,​ ​​​ ​multiplies into the trillions,​ ​​​ ​or transforms along the way into something entirely​ ​​​ ​unimaginable.​ ​​​ ​Envisioning these futures​ ​​​ ​will clarify the risks we face,​ ​​​ ​and the promise we have,​ ​​​ ​as we step into an unpredictable new era,​ ​​​ ​for planet Earth,​ ​​​ ​and for ourselves.​ ​​​ ​
 

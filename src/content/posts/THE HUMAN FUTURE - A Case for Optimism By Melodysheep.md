@@ -2,7 +2,7 @@
 title: THE HUMAN FUTURE - A Case for Optimism By Melodysheep
 date: 2023-09-10
 description: Humanity is at a tipping point:​ ​​​ ​We stand at a crossroads of accelerating change​ ​​​ ​unlike anything ever seen in the history of life.​ ​​​ ​It feels as if the future could tip either way.​ ​​​ ​Between utopia​ ​​​ ​and apocalypse.​ ​​​ ​The risks we face are daunting.​ ​​​ ​But beneath the rampant pessimism for our future​ ​​​ ​is evidence that humanity​ ​​​ ​can not only survive the coming centuries,​ ​​​ ​but thrive deep into the future.​ ​​​ ​No one knows what comes next.​ ​​​ ​But there are three broad paths​ ​​​ ​our future could take.​ ​​​ 
-categories: ["Time - Reality - Dimensions - Future"]
+categories: ["Time-Reality-Dimensions-Future"]
 authors: ["Samael"]
 tags: [ "HumanFuturePrediction" ,"Hypothesis" ,"Imagination" ​]
 image: "/images/posts/human-future.jpg"
